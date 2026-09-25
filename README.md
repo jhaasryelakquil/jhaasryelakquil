@@ -1,10 +1,13 @@
-# Jha'asryel-Akquil Bishop — THE BRIDGE: Georgetown → New York
+# Jha'asryel-Akquil Bishop — Georgetown → New York
+
 
 Policymaker · systems influencer · researcher.
 Not a content creator. I work with AI agents to do real work — measured in completed transactions, not posts.
 
+
 ## What lives here (public lane)
 Open-source and public-interest work: housing and homelessness systems, participatory research tools, civic data, and experiments in AI-assisted delivery.
+
 
 ## Verified affiliations
 - Co-founder and board Director, [Streetlives](https://streetlives.nyc) — NYC nonprofit; instrumental in the city's $15M federal Youth Homelessness Demonstration Program win (2022)
@@ -16,9 +19,12 @@ Open-source and public-interest work: housing and homelessness systems, particip
 - Byline in The Imprint; featured source in Fortune's queer-homelessness investigation
 - Diploma in Theatre Arts and Drama, Institute of Creative Arts, Georgetown (2015)
 
+
 ## Writing
 - Essays and analysis: [Medium @jhaasryelakquilbishop](https://medium.com/@jhaasryelakquilbishop)
 - Music under my own name: THE BRIDGE CYCLE — [Anghami](https://play.anghami.com/song/1240521043)
 
+
 ## Method
 Think raw → have AI evaluate, debate, analyse → conclude and act. AI subscriptions are peer-review infrastructure. Everything here is public or cleared for public release.
+
